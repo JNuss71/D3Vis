@@ -1,2 +1,3 @@
 # D3Vis
-Link to D3 Visualizations
+See all D3 Visualizations here:
+https://bl.ocks.org/JNuss71
